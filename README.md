@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+Meu Discord:
+nominado - IInominadoII#5188
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc731387(v=ws.10)?redirectedfrom=MSDN
+https://learn.microsoft.com/en-us/answers/questions/765824/enable-usb-ports-blocked-by-active-directory-polic
+https://kb.smoothwall.com/hc/en-us/articles/360005387519-Block-USB-Ports-using-Windows-Group-Policy-Object-GPO-
+
+
 <!--
 **Gabriel Donovan/Gabriel Donovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
